@@ -1,4 +1,4 @@
-##Node Express jQuery Code Challenge
+## Node Express jQuery Code Challenge
 
 ### Objectives
 - Initialize and spin up a server side node/express application.
