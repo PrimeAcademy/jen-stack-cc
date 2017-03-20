@@ -12,7 +12,7 @@ Your client has asked you to create a Joke Book application. The server will con
 
 Your job will be to build up the server around the data in the ```server/app.js``` file, display the current jokes to the DOM, and add the ability for users to add their own jokes and display these too.
 
-#####How the joke data is structured
+##### How the joke data is structured
 You can view the full object in ```server/app.js```. The data structure is an array of objects. These objects have three properties: whoseJoke, jokeQuestion, and punchLine.
 
 ```
